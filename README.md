@@ -41,6 +41,6 @@ jupyter lab
 
 ## References
 - [Creating your First Model (with Mesa)](https://mesa.readthedocs.io/latest/tutorials/0_first_model.html)
-- [Mesa GitHub](https://github.com/mesa/mesa)
+- [Mesa GitHub Examples](https://github.com/mesa/mesa/tree/main/mesa/examples)
 - [Mesa Model Code Best Practices](https://mesa.readthedocs.io/stable/best-practices.html)
 
